@@ -118,14 +118,6 @@ organ-donation-system/
 
 ---
 
-## 📣 Contributing
 
-Have ideas or improvements? Contributions are welcome! Fork the repo and raise a PR.
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
